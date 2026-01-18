@@ -1,0 +1,117 @@
+{
+    "HomePage": {
+        "title": "Global Investment & Financing Agency",
+        "subtitle": "Connecting Capital with Opportunity",
+        "cta": "Explore Opportunities",
+        "cta_secondary": "Explore Our Vision",
+        "badge": "Global Financing Partners",
+        "quote": "\"We finance the foundations of tomorrow's society.\"",
+        "quote_description": "Arc Group specializes in bridging the gap between ambitious government initiatives and the capital required to realize them. From renewable energy grids to international airports, our portfolio represents the future of global infrastructure."
+    },
+    "Navigation": {
+        "home": "Home",
+        "projects": "Projects",
+        "investors": "For Investors",
+        "governments": "For Governments",
+        "about": "About Us",
+        "contact": "Contact"
+    },
+    "Sectors": {
+        "title": "Sectors of Strategic Impact",
+        "subtitle": "Our Expertise",
+        "infrastructure": "Infrastructure",
+        "infrastructure_desc": "Driving substantial growth through strategic capital allocation in infrastructure.",
+        "aviation": "Aviation & Airports",
+        "aviation_desc": "Modernizing global transit hubs.",
+        "energy": "Renewable Energy",
+        "energy_desc": "Powering the future with sustainable sources.",
+        "smart_cities": "Smart Cities",
+        "smart_cities_desc": "Building intelligent urban ecosystems."
+    },
+    "Projects": {
+        "title": "Major Projects",
+        "subtitle": "Featured Portfolio",
+        "view_details": "View Project Details",
+        "investment_value": "Investment Value",
+        "items": {
+            "bridge": {
+                "title": "Trans-Pacific Bridge Initiative",
+                "location": "Southeast Asia",
+                "category": "Infrastructure",
+                "description": "A monumental engineering feat connecting key economic zones to foster trade and regional stability."
+            },
+            "solar": {
+                "title": "Sahara Solar Mega-Farm",
+                "location": "North Africa",
+                "category": "Renewable Energy",
+                "description": "One of the world's largest renewable energy projects, supplying clean power to over 5 million homes."
+            },
+            "logistics": {
+                "title": "International Logistics Hub",
+                "location": "Middle East",
+                "category": "Aviation & Logistics",
+                "description": "Next-generation smart airport and logistics center designed to redefine global supply chains."
+            }
+        }
+    },
+    "AboutPage": {
+        "title": "Who We Are",
+        "subtitle": "Architects of Global Growth",
+        "who_we_are_title": "Defining the Future of Finance",
+        "who_we_are_desc": "Arc Group is not just a financial institution; we are the strategic engine behind the world's most ambitious infrastructure developments. From our headquarters to our global outposts, we convene the best minds to solve the most complex financing challenges.",
+        "mission_title": "Our Mission",
+        "mission_desc": "To empower nations and private enterprises with the capital, expertise, and strategic foresight needed to build a sustainable, prosperous future for all.",
+        "vision_title": "Our Vision",
+        "vision_desc": "A world where capital knows no borders, and where every viable infrastructure project finds the funding it needs to transform lives.",
+        "boardroom_caption": "Strategic Council Meeting, 2024"
+    },
+    "InvestorsPage": {
+        "title": "For Investors",
+        "subtitle": "Secure, High-Yield Global Assets",
+        "why_invest_title": "Why Partner with Arc Group?",
+        "roi_title": "Superior Returns",
+        "roi_desc": "Our portfolio consistently outperforms market averages through rigorous risk management and strategic asset selection.",
+        "stability_title": "Sovereign-Grade Stability",
+        "stability_desc": "Backed by government guarantees and long-term concession agreements, our investments offer unparalleled security.",
+        "global_title": "Global Diversification",
+        "global_desc": "Access high-growth markets across Asia, Africa, and the Americas through a single, managed vehicle."
+    },
+    "GovernmentsPage": {
+        "title": "For Governments",
+        "subtitle": "Nation-Building Partnerships",
+        "partnership_title": "A Legacy of Development",
+        "partnership_desc": "We understand that infrastructure is more than just concrete and steel; it is the backbone of national sovereignty and economic independence. We work hand-in-hand with ministries to deliver projects that leave a lasting legacy.",
+        "ppp_title": "Public-Private Synergy",
+        "ppp_desc": "Our PPP models are designed to maximize efficiency while retaining public oversight, ensuring that national interests are always prioritized.",
+        "development_title": "Economic Acceleration",
+        "development_desc": "Our projects create thousands of jobs and stimulate local economies, providing a multiplier effect that lasts for generations."
+    },
+    "ProjectsPage": {
+        "title": "Our Portfolio",
+        "subtitle": "Engineering the Future",
+        "filter_all": "All Projects",
+        "filter_infra": "Infrastructure",
+        "filter_energy": "Energy",
+        "filter_tech": "Technology"
+    },
+    "ContactPage": {
+        "title": "Contact Us",
+        "subtitle": "Start the Conversation",
+        "desc": "Whether you are a government representative seeking partnership or an investor looking for premium opportunities, our team is ready to assist.",
+        "form": {
+            "name": "Full Name",
+            "email": "Email Address",
+            "subject": "Subject",
+            "message": "Message",
+            "submit": "Send Message"
+        },
+        "info": {
+            "address": "Headquarters",
+            "address_val": "100 Financial District Blvd, New York, NY 10005",
+            "email": "Email Us",
+            "email_val": "contact@arcgroup.global",
+            "phone": "Call Us",
+            "phone_val": "+1 (212) 555-0123"
+        }
+    }
+}
