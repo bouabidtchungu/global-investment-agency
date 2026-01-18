@@ -22,7 +22,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Global Investment & Financing Agency",
+  title: "Makadem Global Invest",
   description: "Connecting Capital with Opportunity",
 };
 

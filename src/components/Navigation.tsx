@@ -19,10 +19,10 @@ export default function Navigation({ locale }: { locale: string }) {
                     <div className="flex-shrink-0 flex items-center">
                         <Link href="/" className="flex items-center gap-2">
                             <div className="w-10 h-10 bg-agency-gold rounded-lg flex items-center justify-center text-agency-navy font-bold text-xl">
-                                GI
+                                MG
                             </div>
                             <span className="font-serif font-bold text-xl text-white hidden sm:block tracking-wide">
-                                Global Invest
+                                Makadem Group
                             </span>
                         </Link>
                     </div>
