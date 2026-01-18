@@ -6,7 +6,7 @@
         "cta_secondary": "Explore Our Vision",
         "badge": "Global Financing Partners",
         "quote": "\"We finance the foundations of tomorrow's society.\"",
-        "quote_description": "Arc Group specializes in bridging the gap between ambitious government initiatives and the capital required to realize them. From renewable energy grids to international airports, our portfolio represents the future of global infrastructure."
+        "quote_description": "Makadem Group specializes in bridging the gap between ambitious government initiatives and the capital required to realize them. From renewable energy grids to international airports, our portfolio represents the future of global infrastructure."
     },
     "Navigation": {
         "home": "Home",
@@ -58,7 +58,7 @@
         "title": "Who We Are",
         "subtitle": "Architects of Global Growth",
         "who_we_are_title": "Defining the Future of Finance",
-        "who_we_are_desc": "Arc Group is not just a financial institution; we are the strategic engine behind the world's most ambitious infrastructure developments. From our headquarters to our global outposts, we convene the best minds to solve the most complex financing challenges.",
+        "who_we_are_desc": "Makadem Group is not just a financial institution; we are the strategic engine behind the world's most ambitious infrastructure developments. From our headquarters to our global outposts, we convene the best minds to solve the most complex financing challenges.",
         "mission_title": "Our Mission",
         "mission_desc": "To empower nations and private enterprises with the capital, expertise, and strategic foresight needed to build a sustainable, prosperous future for all.",
         "vision_title": "Our Vision",
@@ -68,7 +68,7 @@
     "InvestorsPage": {
         "title": "For Investors",
         "subtitle": "Secure, High-Yield Global Assets",
-        "why_invest_title": "Why Partner with Arc Group?",
+        "why_invest_title": "Why Partner with Makadem Group?",
         "roi_title": "Superior Returns",
         "roi_desc": "Our portfolio consistently outperforms market averages through rigorous risk management and strategic asset selection.",
         "stability_title": "Sovereign-Grade Stability",
@@ -109,9 +109,9 @@
             "address": "Headquarters",
             "address_val": "100 Financial District Blvd, New York, NY 10005",
             "email": "Email Us",
-            "email_val": "contact@arcgroup.global",
+            "email_val": "contact@makademgroup.global",
             "phone": "Call Us",
-            "phone_val": "+1 (212) 555-0123"
+            "phone_val": "+1 (212) 555-XXX"
         }
     }
 }
